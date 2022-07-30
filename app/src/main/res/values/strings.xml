@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Mediraj</string>
+    <string name="onBoard">OnBoard</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="detail">Details</string>
+    <string name="setting">Setting</string>
+    <string name="login">Login</string>
+    <string name="otp">Otp</string>
+    <string name="order">Order</string>
+    <string name="wish_list">Wish List</string>
+    <string name="cart">Cart</string>
+    <string name="finish">Finish</string>
+    <string name="skip">Skip</string>
+
+    <!--    //service name-->
+    <string name="medicine">Medicine</string>
+    <string name="diagnostic">Diagnostic</string>
+    <string name="pathology">Pathology</string>
+    <string name="clinic">Clinic</string>
+    <string name="doctor">Doctor</string>
+    <string name="surgical">Surgical</string>
+    <string name="blood">Blood</string>
+    <string name="ambulance">Ambulance</string>
+    <string name="real_time_update">Real time medicine notification</string>
+    <string name="notification">Notification</string>
+    <string name="profile">Profile</string>
+
+</resources>

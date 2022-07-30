@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="512dp"
+    android:height="512dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+  <path
+      android:pathData="M256,256m-256,0a256,256 0,1 1,512 0a256,256 0,1 1,-512 0"
+      android:fillColor="#08475e"/>
+  <path
+      android:pathData="m511.28,275.34c-48.78,-48.78 -207.29,-207.29 -207.29,-207.29l-235.94,235.94 207.29,207.29c125.97,-9.41 226.53,-109.97 235.94,-235.94z"
+      android:fillColor="#05303d"/>
+  <path
+      android:pathData="m237.25,236.55 l-102.26,-102.26 0.31,-3.46 62.77,-62.77c29.25,-29.25 76.67,-29.25 105.91,0 29.25,29.25 29.25,76.67 0,105.91l-62.77,62.77z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="m303.98,173.96 l-62.77,62.77 -3.96,-0.18 -50.88,-50.88 117.61,-117.61c14.62,14.62 21.93,33.78 21.93,52.95 0,19.18 -7.31,38.34 -21.93,52.96z"
+      android:fillColor="#d1fefb"/>
+  <path
+      android:pathData="m68.05,303.99c-29.25,-29.25 -29.25,-76.67 0,-105.91l67.25,-67.25 105.91,105.91 -67.25,67.25c-29.25,29.25 -76.67,29.25 -105.91,0z"
+      android:fillColor="#45f6ff"/>
+  <path
+      android:pathData="m241.21,236.73 l-67.25,67.25c-29.25,29.25 -76.66,29.25 -105.91,0l120.21,-120.21z"
+      android:fillColor="#5ecbf1"/>
+  <path
+      android:pathData="m274.75,275.45 l102.26,102.26 -0.31,3.46 -62.77,62.77c-29.25,29.25 -76.67,29.25 -105.91,0 -29.25,-29.25 -29.25,-76.67 0,-105.91l62.77,-62.77z"
+      android:fillColor="#ffffff"/>
+  <path
+      android:pathData="m376.7,381.18 l-62.77,62.77c-29.25,29.25 -76.66,29.25 -105.91,0l117.61,-117.61 51.38,51.38z"
+      android:fillColor="#d1fefb"/>
+  <path
+      android:pathData="m443.95,208.01c29.25,29.25 29.25,76.67 0,105.91l-67.25,67.25 -105.91,-105.91 67.25,-67.25c29.25,-29.25 76.67,-29.25 105.91,0z"
+      android:fillColor="#ff405c"/>
+  <path
+      android:pathData="m443.95,313.93 l-67.25,67.25 -52.96,-52.96 120.21,-120.21c29.25,29.25 29.25,76.66 0,105.91z"
+      android:fillColor="#d01273"/>
+</vector>
